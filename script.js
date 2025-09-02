@@ -134,7 +134,4 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         }
     });
-
-    console.log('Resume site loaded successfully! 🚀');
-    console.log('Keyboard shortcuts: Press "C" for contact, "T" for top');
 });
