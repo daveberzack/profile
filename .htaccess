@@ -1,0 +1,3 @@
+# Handle requests to /dj by serving dj.html
+RewriteEngine On
+RewriteRule ^dj$ dj.html [L]
