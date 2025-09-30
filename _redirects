@@ -1,2 +1,1 @@
-# Redirect /dj to /dj/ to ensure proper resource loading
 /dj /dj/ 301
