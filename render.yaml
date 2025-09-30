@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: resume-site
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
+    routes:
+      - type: redirect
+        source: /dj
+        destination: /dj/
+        status: 301
